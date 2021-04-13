@@ -1,7 +1,7 @@
 # chemRICH_heatmap
 R code for heatmaps for chemRICH multiple conditons
 
-The chemrich_heatmap function can be used to make heatmaps for chemRICH analyses that have multiple conditions (see https://chemrich.idsl.me/run-chemrich/for-multiple-conditions for more information).
+The chemrich_heatmap function can be used to make heatmaps for chemRICH analyses that have multiple conditions (see https://chemrich.idsl.me/run-chemrich/for-multiple-conditions for more information). In essence, this is to summarize the multiple bubble plots that chemRICH produces with multiple conditions into one figure.
 
 With the default settings, all you need to do is the following:
 1) Run the chemRICH multiple conditions R code (see the previous link)
