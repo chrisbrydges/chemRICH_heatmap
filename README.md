@@ -10,6 +10,6 @@ With the default settings, all you need to do is the following:
 source("https://raw.githubusercontent.com/chrisbrydges/chemRICH_heatmap/main/ChemRICH_heatmap.R")
 chemrich_heatmap(input = "chemrich_results.xlsx")
 ```
-Where chemrich_results.xlsx is the name of the output Excel from the chemRICH analysis. From there, the heat map will be automatically created and saved.
+Where chemrich_results.xlsx is the name of the output Excel from the chemRICH analysis. From there, the heat map will be automatically created and saved. The "chemrich_results.xlsx" file in this Github project is the output from the file that Dinesh Barupal provides as an example input for ChemRICH for multiple conditions. 
 
 You're also more than welcome to download and edit the code yourself to change figure parameters (e.g., text size, figure dimensions, etc.).
